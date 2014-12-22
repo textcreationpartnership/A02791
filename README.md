@@ -35,51 +35,82 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Harvvards phlebotomy: or, A treatise of letting of bloud fitly seruing, as well for an aduertisement
+
+1. ❧ To the Right Honourable
+his ſingular good Lord, Gilbert Earle of
+Shrewſbury, Baron Talbot, Lord Comin of
+Badenho, Valence, and Montchency, Lord
+Strange of Blanch-minſter, of Brimsfeld, Corfham,
+Furniuall, Verdon, and Louctoft, Knight and
+companion of the moſt noble order of the
+Garter, and one of her Maiesties
+moſt honorable priuie Counſell:
+many ioyful and happy yeeres,
+with all increaſe of
+Honour.
+
+1. The Preface, declaring the
+order and contents of theſe two bookes
+of Phlebotomy.
+
 #####Body#####
 
-1. The firſt Chapter.
+1. The firſt booke of Harwards
+Phlebotomy.
 
-1. CHAP. 2.
+    _ The firſt Chapter.
 
-1. CHAP. 3.
+    _ CHAP. 2.
 
-1. CHAP. 4.
+    _ CHAP. 3.
 
-1. CHAP. 5.
+    _ CHAP. 4.
 
-1. CHAP. 6.
+    _ CHAP. 5.
 
-1. CHAP. 7.
+    _ CHAP. 6.
 
-1. CHAP. 8.
+    _ CHAP. 7.
 
-1. CHAP. 9.
+    _ CHAP. 8.
 
-1. CHAP. 10.
+    _ CHAP. 9.
 
-1. The firſt Chapter.
+    _ CHAP. 10.
 
-1. CHAP. 2.
+1. The ſecond booke of Harwards Phlebotomy,
+concerning the rules and circumſtances
+which are to be obſerued, when
+for the prenenting or curing of a
+diſeaſe any vayne is to be
+opened.
 
-1. CHAP. 3.
+    _ The firſt Chapter.
 
-1. CHAP. 4.
+    _ CHAP. 2.
 
-1. CHAP. 5.
+    _ CHAP. 3.
 
-1. CHAP. 6.
+    _ CHAP. 4.
 
-1. CHAP. 7.
+    _ CHAP. 5.
 
-1. CHAP. 8.
+    _ CHAP. 6.
 
-1. CHAP. 9.
+    _ CHAP. 7.
 
-1. CHAP. 10.
+    _ CHAP. 8.
+
+    _ CHAP. 9.
+
+    _ CHAP. 10.
 
 #####Back#####
-Harvvards phlebotomy: or, A treatise of letting of bloud fitly seruing, as well for an aduertisement
+
+1. The Index.
+
+1. Faults eſcaped.
+
 **Types of content**
 
   * There are 10 **verse** lines!
